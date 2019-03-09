@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-color: #D8D8D8;
+  color: #170B3B;
+  font-family: serif;
+  font-style: bold;
+  font-size: 20px;
+
+}
+
+ul{
+	text-align: center;
+	background-color: #D8D8D8;
+	color: #170B3B;
+}
+
+nav{
+	text-align: center;
+	background-color: #D8D8D8;
+	color: #170B3B;
+}
+
+.nav-link{
+	color: #170B3B;
+}
+
+
+
+h1{
+	font-size: 60px;	
+}
+
+h2{
+	font-size: 40px;
+}
+
+img{
+	width: 100%;
+	border-radius: 5%;
+}
+
+iframe{
+	width: 100%;
+	border-radius: 3%;
+}
+
+.gallery{
+	width: 900px;
+	margin: auto;
+}
+
+.menu{
+	width:1200px;
+	margin: auto;
+}	
