@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: #0a0a50;
+  color: white;
+  font-family: bradley;
+  font-style: italic;
+  font-size: 20px;
+
+}
+
+ul{
+	text-align: center;
+	background-color: #0a0a50;
+	color: white;
+}
+
+nav{
+	text-align: center;
+	background-color: #0a0a50;
+	color: white;
+}
+
+.nav-link{
+	color: white;
+}
+
+
+
+h1{
+	font-size: 60px;	
+}
+
+h2{
+	font-size: 40px;
+}
